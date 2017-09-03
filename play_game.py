@@ -64,6 +64,7 @@ Let's start playing!
 						print("The computer choose",computer)
 						print("")
 						print(win)
+						computer_lives -= 1
 						print("")
 						print("")
 						score+=1
